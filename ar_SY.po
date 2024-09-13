@@ -1,0 +1,183 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* hotel_dashboard
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-10 16:32+0000\n"
+"PO-Revision-Date: 2024-09-10 16:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Booking"
+msgstr "حجز"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Check-in Request"
+msgstr "طلب تسجيل الوصول"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Check-out Request"
+msgstr "طلب تسجيل الخروج"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Checked-in"
+msgstr "تم تسجيل الوصول"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Checkout"
+msgstr "تسجيل الخروج"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Confirmed"
+msgstr "مؤكد"
+
+#. module: hotel_dashboard
+#: model:ir.actions.client,name:hotel_dashboard.hotel_compare_widget_client_actn
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Date"
+msgstr "تاريخ"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/js/ab_dashbord_hotel.js:0
+#: code:addons/hotel_dashboard/static/src/js/dashbord_hotel.js:0
+#, python-format
+msgid "Folio"
+msgstr "ملف"
+
+#. module: hotel_dashboard
+#: model:ir.ui.menu,name:hotel_dashboard.menu_root
+#: model:ir.ui.menu,name:hotel_dashboard.mnu_my_widget_main_hotel
+msgid "Hotel Dashboard"
+msgstr "لوحة تحكم الفندق"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/js/ab_dashbord_hotel.js:0
+#: code:addons/hotel_dashboard/static/src/js/ab_dashbord_hotel.js:0
+#: code:addons/hotel_dashboard/static/src/js/dashbord_hotel.js:0
+#: code:addons/hotel_dashboard/static/src/js/dashbord_hotel.js:0
+#, python-format
+msgid "Hotel Reservation"
+msgstr "حجز الفندق"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/js/ab_dashbord_hotel.js:0
+#: code:addons/hotel_dashboard/static/src/js/dashbord_hotel.js:0
+#, python-format
+msgid "Housekeeping"
+msgstr "التدبير المنزلي"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "My Company"
+msgstr "شركتي"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/js/ab_dashbord_hotel.js:0
+#: code:addons/hotel_dashboard/static/src/js/dashbord_hotel.js:0
+#, python-format
+msgid "Request for Repair / Replacement"
+msgstr "طلب إصلاح / استبدال"
+
+#. module: hotel_dashboard
+#: model:ir.model,name:hotel_dashboard.model_hotel_reservation
+msgid "Reservation"
+msgstr "حجز"
+
+#. module: hotel_dashboard
+#: model:ir.model,name:hotel_dashboard.model_hotel_room_type
+msgid "Room Type"
+msgstr "نوع الغرفة"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Spilt Reservation"
+msgstr "تجزئة الحجز"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "This Month"
+msgstr "هذا الشهر"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "This Week"
+msgstr "هذا الأسبوع"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Today"
+msgstr "اليوم"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Total Available"
+msgstr "الإجمالي المتاح"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Total Room Booked"
+msgstr "إجمالي الغرف المحجوزة"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Under Cleaning"
+msgstr "تحت التنظيف"
+
+#. module: hotel_dashboard
+#. odoo-javascript
+#: code:addons/hotel_dashboard/static/src/view/template.xml:0
+#, python-format
+msgid "Under Maintenance"
+msgstr "تحت الصيانة"
